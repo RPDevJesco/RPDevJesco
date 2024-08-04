@@ -1,12 +1,12 @@
 # Hello, I'm [Jesco (GameDevMadeEasy)] 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=RPDevJesco)
+![GitHub Followers](https://img.shields.io/github/followers/RPDevJesco?label=Followers&style=social)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPDevJesco&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RPDevJesco&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RPDevJesco&theme=radical)
 
 ## About Me
 Seasoned Software Consultant & Senior Salesforce Developer | Expert in Salesforce Development | Proficient in Full-Stack Solutions with .NET Framework | Proficient in Front-End Solutions with HTML5 and Javascript | Agile Methodology Enthusiast | Salesforce Certified Administrator
