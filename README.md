@@ -5,8 +5,8 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPDevJesco&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPDevJesco&layout=pie)](https://github.com/RPDevJesco/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RPDevJesco&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPDevJesco&layout=donut-vertical)](https://github.com/RPDevJesco/github-readme-stats)
 
 ## About Me
 Seasoned Software Consultant & Senior Salesforce Developer | Expert in Salesforce Development | Proficient in Full-Stack Solutions with .NET Framework | Proficient in Front-End Solutions with HTML5 and Javascript | Agile Methodology Enthusiast | Salesforce Certified Administrator
