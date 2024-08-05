@@ -5,7 +5,7 @@
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPDevJesco&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RPDevJesco&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPDevJesco&layout=pie)](https://github.com/RPDevJesco/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RPDevJesco&theme=radical)
 
 ## About Me
