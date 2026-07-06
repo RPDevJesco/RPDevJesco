@@ -1,7 +1,10 @@
 # Hello, I'm Jesco (GameDevMadeEasy)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=RPDevJesco)
 ![GitHub Followers](https://img.shields.io/github/followers/RPDevJesco?label=Followers&style=social)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPDevJesco&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RPDevJesco&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPDevJesco&layout=donut-vertical)](https://github.com/RPDevJesco/github-readme-stats)
 
 ## What I Build
 
